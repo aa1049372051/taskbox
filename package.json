@@ -50,5 +50,7 @@
     "storybook": "^7.6.6",
     "vite": "^4.1.4"
   },
-  "resolutions": {}
+  "resolutions": {
+    "jackspeak": "2.1.1"
+  }
 }
